@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis in R
 
 Smart Phone Sentiment Analysis (iPhone and Samsung Galaxy)
 Client: Helio
